@@ -11,6 +11,7 @@ fields:
 - type: text
   name: email
   label: email
+  description: mrmibrahim3@gmail.com
 - type: field_group_list
   name: social
   label: social
